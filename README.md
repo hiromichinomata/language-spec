@@ -9,7 +9,7 @@
 | JavaScript      | unshift          | push        | shift          | pop                |
 | JavaScript Node | prepend          | appendChild | N/A            | N/A                |
 | jQuery          | prepend          | append      | first().remove | last().remove      |
-| C++             |                  |             |                |                    |
+| C++ deque       | push_front       | push_back   | pop_front      | pop_back           |
 | Java            |                  |             |                |                    |
 | C#              |                  |             |                |                    |
 | Go              |                  |             |                |                    |
