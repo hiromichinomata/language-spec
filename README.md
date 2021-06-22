@@ -17,3 +17,17 @@
 | Swift Array     | insert(e, at: 0) | append      | removeFirst    | popLast/removeLast |
 | Kotlin          |                  |             |                |                    |
 | Lisp            |                  |             |                |                    |
+
+## Range
+Range
+* Ruby  
+1...5: [1, 5)  
+1..5: [1, 5]  
+
+* Swift  
+1..<5: [1, 5)  
+1...5: [1, 5]  
+
+* Rust  
+1..5: [1, 5)  
+1..=5: [1, 5]  
